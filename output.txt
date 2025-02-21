@@ -1,0 +1,4 @@
+Outputs:
+
+instance_id = "i-01d16ede4f4d6b07d"
+load_balancer_dns = "Yovellb-2044644008.us-east-1.elb.amazonaws.com"
